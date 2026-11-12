@@ -1,0 +1,9 @@
+{
+  "name": "esp32-server",
+  "version": "1.0.0",
+  "description": "ESP32 sensor monitoring server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
